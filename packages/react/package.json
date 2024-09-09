@@ -19,6 +19,7 @@
     "@ignite-ui/ts-config": "*",
     "@types/react": "^18.3.5",
     "@types/react-dom": "^18.3.0",
+    "eslint-plugin-import": "^2.30.0",
     "react": "^18.3.1",
     "tsup": "^8.2.4",
     "typescript": "^4.8.4"
