@@ -9,3 +9,5 @@ export * from './Avatar'
 export * from './Button'
 
 export * from './TextInput'
+
+export * from './TextArea'
