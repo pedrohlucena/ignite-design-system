@@ -13,3 +13,5 @@ export * from './TextInput'
 export * from './TextArea'
 
 export * from './Checkbox'
+
+export * from './MultiStep'
