@@ -8,6 +8,11 @@ export default {
     src: 'https://github.com/pedrohlucena.png',
     alt: 'Pedro Lucena',
   },
+  argTypes: {
+    src: {
+      type: 'string',
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
