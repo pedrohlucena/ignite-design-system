@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@pedrohlucena/docs",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,9 +10,9 @@
     "lint": "eslint src/**/*.ts* --fix"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
+    "@pedrohlucena/eslint-config": "*",
+    "@pedrohlucena/react": "*",
+    "@pedrohlucena/tokens": "*",
     "@phosphor-icons/react": "^2.1.7",
     "@storybook/addon-a11y": "^8.3.0",
     "polished": "^4.3.1",
